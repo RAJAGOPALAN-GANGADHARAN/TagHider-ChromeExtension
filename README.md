@@ -4,7 +4,7 @@ Extension to hide Tags in Codeforces so it can be useful in solving problems.
 
 
 Steps to install the extension:
-1. download the zip file (link)[https://github.com/RAJAGOPALAN-GANGADHARAN/TagHider-ChromeExtension/releases/tag/v1]
+1. download the zip file [link](https://github.com/RAJAGOPALAN-GANGADHARAN/TagHider-ChromeExtension/releases/tag/v1)
 2. visit chrome://extensions/
 3. enable developer mode
 4. click load unpacked and select the unzipped folder

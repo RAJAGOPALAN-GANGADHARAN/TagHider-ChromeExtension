@@ -12,7 +12,4 @@ Steps to install the extension:
 6. If you want to remove visit site from step 2 and remove the extension.
 
 
-To hide tags in main problemset page go to settings on your codeforces handle and tick hide tags for unsolved problem.
-
-
 Happy coding!
